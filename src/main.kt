@@ -5,4 +5,6 @@
 
 fun main(args: Array<String>) {
     println("Hello, world!")
+
+    println("Learning Kotlin, TornadoFX, RxKotlin, RxKotlinFX")
 }
